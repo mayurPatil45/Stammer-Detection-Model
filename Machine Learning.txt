@@ -1,0 +1,5 @@
+Machine Learning
+
+
+SVM technologies
+12 LPC, LPCC, and MFCCs
